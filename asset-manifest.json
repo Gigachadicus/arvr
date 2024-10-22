@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arvr/static/css/main.8b1a0b8e.css",
+    "main.js": "/arvr/static/js/main.88db6f5f.js",
+    "static/js/453.6c71e020.chunk.js": "/arvr/static/js/453.6c71e020.chunk.js",
+    "index.html": "/arvr/index.html",
+    "main.8b1a0b8e.css.map": "/arvr/static/css/main.8b1a0b8e.css.map",
+    "main.88db6f5f.js.map": "/arvr/static/js/main.88db6f5f.js.map",
+    "453.6c71e020.chunk.js.map": "/arvr/static/js/453.6c71e020.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b1a0b8e.css",
+    "static/js/main.88db6f5f.js"
+  ]
+}
